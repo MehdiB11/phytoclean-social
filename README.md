@@ -10,5 +10,4 @@ The project is in development. This page is a contact hub, not a product sales p
 3. Select branch **main** and folder **/(root)**, then Save.
 4. Wait for GitHub Pages to publish the site.
 
-The public page URL should be: https://meh dib11.github.io/phytoclean-social/ (remove the space in the username; expected URL: https://mehdib11.github.io/phytoclean-social/)
-
+Expected public page URL: https://mehdib11.github.io/phytoclean-social/
